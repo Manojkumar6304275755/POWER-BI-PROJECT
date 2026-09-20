@@ -5,7 +5,7 @@ Adventure Works Sales Analysis – Power BI
 This project is an interactive Adventure Works Sales Analysis dashboard developed using Microsoft Power BI. The dashboard analyzes sales performance across different time periods, customers, products, and geographic regions, helping identify revenue trends, production costs, profitability, and top-performing products.
 
 #ADVENTURE WORKS DASHBOARD
-
+<img width="1042" height="586" alt="POWERBI-DASHBOARD" src="https://github.com/user-attachments/assets/66fca36c-a943-41eb-aab9-0b09288e77ea" />
 
 🎯 Objectives
 
